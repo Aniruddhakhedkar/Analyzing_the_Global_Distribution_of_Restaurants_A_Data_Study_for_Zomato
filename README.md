@@ -9,11 +9,11 @@ Zomato, a leading restaurant aggregator and food delivery service, operates acro
 
 ## Business Objectives:- 
 
-1)-Customer preferences are based on cuisine, location, and rating.
+1)-Customer preferences are based on cuisine, location, and rating
 
-2)-Restaurant performance, including aggregate ratings, table booking availability, and price range.
+2)-Restaurant performance, including aggregate ratings, table booking availability, and price range
 
-3)-Opportunities for business growth, such as improving services like online delivery and enhancing customer experience.
+3)-Opportunities for business growth, such as improving services like online delivery and enhancing customer experience
 
 ## Tasks:-
 
